@@ -1,5 +1,3 @@
-### Hi there!
-
 I’m a security engineer focused on **trustworthy machine learning** and **privacy-enhancing technologies**. 
 I’m also broadly interested in cryptography, program analysis, formal methods, and firmware engineering. 
 Right now, I’m an intern at [Trail of Bits](https://www.trailofbits.com/).
