@@ -1,9 +1,3 @@
-I’m a software security engineer. My specialty is **machine learning assurance**, but my work also involves data privacy, program analysis, and applied cryptography. 
-
-Right now, I’m an intern at **Trail of Bits** where I've worked on projects such as [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) and [Fickling](https://github.com/trailofbits/fickling). 
-
-I’m pursuing a BS in Computer Science at **Georgia Tech** ([threads in theory and people](https://www.cc.gatech.edu/academics/degree-programs/bachelors/computer-science/threads)) where I also conduct research under [Prof. Wenke Lee](https://iisp.gatech.edu/).
-
 Check out my [website](https://sshussain.me/) for more information.
 <!--
 **suhacker1/suhacker1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
