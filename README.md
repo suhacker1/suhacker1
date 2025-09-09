@@ -1,8 +1,4 @@
-Hi! My name is Suha Sabi Hussain.
-
-I’m a security engineer on the machine learning assurance team at Trail of Bits. I’ve worked on projects such as the safetensors security audit and fickling. I received my BS in Computer Science from Georgia Tech (with threads in people and theory).
-
-You can contact me at suhashussain1 ‘at’ gmail ‘dot’ com or @suhackerr on Twitter.
+Hi! My name is Suha Sabi Hussain. I'm an AI security engineer! 
 
 <!--
 **suhacker1/suhacker1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
